@@ -152,6 +152,6 @@ Unauthorized decryption of PDF files may be illegal and unethical.
 ## 👤 Author
 
 Made with curiosity and caffeine ☕  
-**Gumbo**  
+**ritzsec**   
 [GitHub Profile](https://github.com/your-username)
 
